@@ -1,4 +1,4 @@
-clear
+
 figlet Kamera012 | lolcat
 echo "====================================================
 # Author  : Dedi Supriatna012
