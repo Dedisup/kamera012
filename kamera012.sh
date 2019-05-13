@@ -1,3 +1,11 @@
+clear
+figlet Kamera012 | lolcat
+echo "====================================================
+# Author  : Dedi Supriatna012
+# Contact : supriatna.s.series@gmail.com
+# Ingat.  : jangan jadi anak anjing ya. 
+====================================================" | lolcat
+
 #!/bin/bash
 
 trap 'printf "\n";stop' 2
